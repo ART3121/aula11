@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "projectName": "Processador_Aula11",
+    "createdAt": "2026-11-18T11:59:01.341Z",
+    "lastModified": "2026-11-18T12:12:52.168Z",
+    "computerName": "",
+    "appVersion": "aurora 1.1.0",
+    "projectPath": "/home/aaraujo/Projetos/Processador_Aula11"
+  },
+  "structure": {
+    "basePath": "/home/aaraujo/Projetos/Processador_Aula11",
+    "processors": [],
+    "folders": [],
+    "topLevelFile": "proc_ram.v",
+    "testbenchFile": "tb_proc_ram.v",
+    "synthesizableFiles": [
+      {
+        "name": "acumulador.v",
+        "path": "acumulador.v",
+        "isTopLevel": false
+      },
+      {
+        "name": "contador_programa.v",
+        "path": "contador_programa.v",
+        "isTopLevel": false
+      },
+      {
+        "name": "debounce.v",
+        "path": "debounce.v",
+        "isTopLevel": false
+      },
+      {
+        "name": "decimal16_dabble.v",
+        "path": "decimal16_dabble.v",
+        "isTopLevel": false
+      },
+      {
+        "name": "dig7.v",
+        "path": "dig7.v",
+        "isTopLevel": false
+      },
+      {
+        "name": "display5.v",
+        "path": "display5.v",
+        "isTopLevel": false
+      },
+      {
+        "name": "my_proc.v",
+        "path": "my_proc.v",
+        "isTopLevel": false
+      },
+      {
+        "name": "proc_ram.v",
+        "path": "proc_ram.v",
+        "isTopLevel": true
+      },
+      {
+        "name": "ram.v",
+        "path": "ram.v",
+        "isTopLevel": false
+      },
+      {
+        "name": "rom.v",
+        "path": "rom.v",
+        "isTopLevel": false
+      },
+      {
+        "name": "ula16s.v",
+        "path": "ula16s.v",
+        "isTopLevel": false
+      }
+    ],
+    "testbenchFiles": [
+      {
+        "name": "tb_proc_ram.v",
+        "path": "tb_proc_ram.v",
+        "isTopLevel": true
+      },
+      {
+        "name": "tb_ram.v",
+        "path": "tb_ram.v",
+        "isTopLevel": false
+      }
+    ]
+  }
+}

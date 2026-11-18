@@ -1,0 +1,20 @@
+// OS DADOS: o conteudo inicial da RAM, uma linha por endereco, 16 bits em binario.
+// Constantes nos enderecos de cima (0, 1...), variaveis nos de baixo (15, 14...).
+//
+//      dado            end.   o que e
+0000000000000111   // 0     a = 7
+0000000000000000  // 1     b = 3
+0000000000000000   // 2
+0000000000000000   // 3
+0000000000000000   // 4
+0000000000000000   // 5
+0000000000000000   // 6
+0000000000000000   // 7
+0000000000000000   // 8
+0000000000000000   // 9
+0000000000000000   // 10
+0000000000000000   // 11
+0000000000000000   // 12
+0000000000000000   // 13
+0000000000000000   // 14    o programa guarda aqui o resultado
+0000000000000000   // 15    o programa guarda aqui a + b
